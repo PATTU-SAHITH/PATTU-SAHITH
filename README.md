@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahith</h1>
-<h3 align="center">💻 I’m passionate about Frontend Development — crafting responsive interfaces with HTML, CSS, JavaScript, and React. ⚙️ I enjoy programming in Java and Python, building efficient and scalable solutions. 🤖 I have a growing interest in Machine Learning, exploring NumPy, Pandas, and Scikit-Learn. 🌱 I’m currently expanding my skills in modern frameworks and AI-driven applications. 🚀 I’m eager to collaborate on innovative and impactful projects that blend creativity and technology. 📫 Feel free to reach out to me at: pattusahith@iclodu.com</h3>
+<h3 align="center">💻 I’m passionate about Frontend Development — crafting responsive interfaces with HTML, CSS, JavaScript, and React.<br/> ⚙️ I enjoy programming in Java and Python, building efficient and scalable solutions.<br/> 🤖 I have a growing interest in Machine Learning, exploring NumPy, Pandas, and Scikit-Learn. <br/>🌱 I’m currently expanding my skills in modern frameworks and AI-driven applications.<br/> 🚀 I’m eager to collaborate on innovative and impactful projects that blend creativity and technology. <br/>📫 Feel free to reach out to me at: pattusahith@icloud.com</h3>
 
 - 🔭 I’m currently working on **Cube-Timer**
 
